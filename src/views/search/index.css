@@ -1,0 +1,8 @@
+body {
+  background: #fff;
+}
+
+div {
+  border-radius: 2px;
+  display: flex;
+}

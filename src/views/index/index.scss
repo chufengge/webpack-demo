@@ -1,0 +1,17 @@
+body {
+  p {
+    font-size: 20px;
+    background: green;
+    display: flex;
+  }
+}
+
+img {
+  width: 100%;
+}
+
+.img {
+  background: url('./img/26.jpg') left top no-repeat;
+  background-size: contain;
+  height: 300px;
+}
